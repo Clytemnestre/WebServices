@@ -1,0 +1,1 @@
+C:\Users\ipd\Documents\WebServices\Remotelib-csharp-client\Remotelib-csharp-client\bin\Debug\Remotelib-csharp-client.exe.config

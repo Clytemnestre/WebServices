@@ -1,0 +1,13 @@
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\bin\Debug\libraryClient.exe.config
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\bin\Debug\libraryClient.exe
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\bin\Debug\libraryClient.pdb
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\obj\Debug\libraryClient.csprojResolveAssemblyReference.cache
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\obj\Debug\MainWindow.baml
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\obj\Debug\MainWindow.g.cs
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\obj\Debug\App.g.cs
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\obj\Debug\libraryClient_MarkupCompile.cache
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\obj\Debug\libraryClient.g.resources
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\obj\Debug\libraryClient.Properties.Resources.resources
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\obj\Debug\libraryClient.csproj.GenerateResource.Cache
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\obj\Debug\libraryClient.exe
+C:\Users\ipd\Documents\WebServices\libraryClient\libraryClient\obj\Debug\libraryClient.pdb

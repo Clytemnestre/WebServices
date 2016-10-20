@@ -1,0 +1,22 @@
+﻿<Window x:Class="libraryClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="535">
+    <Grid>
+        <ListView x:Name="jlBookList" HorizontalAlignment="Left" Height="205" Margin="10,10,0,0" VerticalAlignment="Top" Width="289">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox x:Name="tbName" HorizontalAlignment="Left" Height="23" Margin="387,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbAuthor" HorizontalAlignment="Left" Height="23" Margin="387,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbYear" HorizontalAlignment="Left" Height="23" Margin="387,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnAddBook" Content="Add" HorizontalAlignment="Left" Margin="313,175,0,0" VerticalAlignment="Top" Width="194" Height="40" Click="btnAddBook_Click"/>
+        <Label Content="Name: " HorizontalAlignment="Left" Margin="309,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Author: " HorizontalAlignment="Left" Margin="309,63,0,0" VerticalAlignment="Top"/>
+        <Label Content="Year: " HorizontalAlignment="Left" Margin="313,123,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
